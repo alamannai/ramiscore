@@ -1,0 +1,6 @@
+class :
+id
+name
+price
+image
+amount
